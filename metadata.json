@@ -1,0 +1,13 @@
+{
+	"name": "luoCaptcha For Q2A",
+	"uri": "https://github.com/awei922/luocaptcha-for-q2a",
+	"description": "luosimao captcha plugin for question2answer",
+	"version": "1.0.0",
+	"date": "2019-01-07",
+	"author": "awei922",
+	"author_uri": "http://mjiong.com/",
+	"license": "GPLv3",
+	"update_uri": "https://raw.githubusercontent.com/awei922/luocaptcha-for-q2a/master/metadata.json",
+	"min_q2a": "1.6",
+	"min_php": "5.4"
+}
